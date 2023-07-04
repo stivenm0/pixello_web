@@ -19,4 +19,4 @@ A list of technologies used within the project:
 * PHP(Laravel) 
 * MySql
 * bootstrap
-* Inertia.js
+* jQuery
